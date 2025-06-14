@@ -2,7 +2,7 @@
 This project demonstrates end-to-end test automation using Selenium WebDriver with Java, following the Page Object Model (POM) design pattern and TestNG framework on the Tricentis Demo Web Shop.
 
 🌐 Website Under Test
-URL: https://demowebshop.tricentis.com
+URL: https://demowebshop.tricentis.com 
 
 For manual
 Excel
